@@ -1,0 +1,11 @@
+
+-- ft.doc-page:
+toc: $ft.toc
+
+-- ft.h1: Introduction
+
+Creating a book with `fpm` is incredibly easy. `fpm` provides numerous libraries
+which allow you to create a book which is interoperable with multiple themes.
+
+The simplest way to get started is to click on the `Use this template` link in 
+the header and create a new repository to get you started

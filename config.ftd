@@ -1,0 +1,27 @@
+-- import: fifthtry.github.io/Jupiter-theme as ft
+
+-- ft.site-name: FPM book
+-- ft.site-icon: static/images/logo.svg
+-- ft.github: https://github.com/fifthtry/fpm-book/
+-- ft.site-url: /fpm-book/
+
+-- ft.header-toc:
+$processor$: toc
+
+- quickstart/
+  Quickstart
+- https://github.com/FifthTry/fpm-book/generate/
+  Use this template
+
+
+-- ft.toc:
+$processor$: toc
+
+- index.html
+  Introduction
+- ch00-00-quickstart/
+  Quickstart
+- ch00-00-quickstart/
+  Getting started
+  - ch00-01-getting-started/
+    Deploy 
